@@ -10,7 +10,8 @@ body{
     font-family: 'Outfit', sans-serif;
 }
 .box {
-    height: 844px;
+    /* width: 1rem; */
+    min-height: 100vh;
     display: flex;
     align-items: center;
     border-radius: 0.5rem;
